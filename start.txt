@@ -1,3 +1,6 @@
-The benefits of revision control for writing are obvious, and many people (including myself) have gone beyond a folder full of files with dates or version numbers attached to them, but can you write something that's native to the system?
+The benefits of revision control for writing are obvious, and many people (including myself) have 
+gone beyond a folder full of files with dates or version numbers attached to them, but can you 
+write something that's native to the system?
 
-You have the content, but also the commit messages. You have branching. You have pull requests. Can something interesting be done here?
+You have the content, but also the commit messages. You have branching. You have pull requests.
+Can something interesting be done here?
