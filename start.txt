@@ -4,3 +4,8 @@ write something that's native to the system?
 
 You have the content, but also the commit messages. You have branching. You have pull requests.
 Can something interesting be done here?
+
+The first update is a small one. A minor change, but recorded.
+Had I been more clever about it the original file contents would have made it more 
+difficult to track what is new and what is not -- a very difficult piece for 
+string bass as model -- but it didn't. Alas.
